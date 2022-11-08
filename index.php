@@ -1,2 +1,6 @@
-$ echo '<?php include_once("index.html"); ?>' > index.php
-$ echo '{}' > composer.json
+<html>
+<body>
+<p>Hello world!</p>
+<p>Today is : <?=date("m.d.y")?></p>
+</body>
+</html>
