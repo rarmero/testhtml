@@ -1,0 +1,10 @@
+{
+    "name": "rafa/test",
+    "type": "project",
+    "authors": [
+        {
+            "name": "didocalia"
+        }
+    ],
+    "require": {}
+}
